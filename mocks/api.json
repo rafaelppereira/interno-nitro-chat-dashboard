@@ -1,0 +1,357 @@
+{
+  "hangTags": [
+    {
+      "name": "Orçamento",
+      "description": "Detalhes sobre o orçamento disponível para o projeto."
+    },
+    {
+      "name": "Cliente Ativo",
+      "description": "Informações sobre clientes atualmente engajados com a empresa."
+    },
+    {
+      "name": "Feedback Positivo",
+      "description": "Comentários favoráveis sobre produtos ou serviços."
+    },
+    {
+      "name": "Novas Oportunidades",
+      "description": "Possibilidades de negócios emergentes a serem exploradas."
+    },
+    {
+      "name": "Desafios Futuros",
+      "description": "Problemas antecipados que podem surgir no futuro próximo."
+    },
+    {
+      "name": "Tendências de Mercado",
+      "description": "Padrões observados no comportamento do mercado."
+    },
+    {
+      "name": "Metas Mensais",
+      "description": "Objetivos a serem alcançados durante o mês atual."
+    },
+    {
+      "name": "Ideias Inovadoras",
+      "description": "Conceitos criativos para melhorar processos ou produtos."
+    },
+    {
+      "name": "Análise de Competidores",
+      "description": "Avaliação da concorrência e suas estratégias."
+    },
+    {
+      "name": "Estratégias de Marketing",
+      "description": "Planos para promover produtos ou serviços da empresa."
+    },
+    {
+      "name": "Produtos em Destaque",
+      "description": "Itens específicos que estão recebendo atenção especial."
+    },
+    {
+      "name": "Expectativas do Cliente",
+      "description": "As demandas e desejos dos clientes para os serviços oferecidos."
+    },
+    {
+      "name": "Feedback dos Funcionários",
+      "description": "Opiniões e sugestões dos colaboradores sobre o ambiente de trabalho."
+    },
+    {
+      "name": "Recursos Disponíveis",
+      "description": "Ferramentas e ativos disponíveis para realizar tarefas."
+    },
+    {
+      "name": "Desenvolvimento de Produto",
+      "description": "Processo de aprimoramento de um produto existente ou desenvolvimento de um novo."
+    },
+    {
+      "name": "Projetos em Andamento",
+      "description": "Iniciativas em curso que exigem atenção e recursos."
+    },
+    {
+      "name": "Conquistas Recentes",
+      "description": "Sucessos recentes alcançados pela empresa ou equipe."
+    },
+    {
+      "name": "Riscos Identificados",
+      "description": "Potenciais ameaças ao sucesso de um projeto ou negócio."
+    },
+    {
+      "name": "Colaboração Interna",
+      "description": "Trabalho em equipe dentro da organização para alcançar objetivos comuns."
+    },
+    {
+      "name": "Pesquisa de Mercado",
+      "description": "Estudo para compreender melhor as necessidades e preferências do mercado-alvo."
+    },
+    {
+      "name": "Estratégias de Vendas",
+      "description": "Abordagens para impulsionar as vendas e alcançar metas de receita."
+    },
+    {
+      "name": "Melhores Práticas",
+      "description": "Métodos ou processos reconhecidos como mais eficazes em uma determinada área."
+    },
+    {
+      "name": "Iniciativas de Sustentabilidade",
+      "description": "Ações para promover práticas ambientalmente responsáveis."
+    },
+    {
+      "name": "Expectativas de Crescimento",
+      "description": "Previsões e planos para o crescimento futuro da empresa."
+    },
+    {
+      "name": "Experiência do Usuário",
+      "description": "Qualidade da interação entre o cliente e o produto ou serviço oferecido."
+    },
+    {
+      "name": "Requisitos de Projeto",
+      "description": "Critérios e especificações que um projeto deve atender para ser bem-sucedido."
+    },
+    {
+      "name": "Avaliação de Desempenho",
+      "description": "Análise do rendimento de um funcionário, equipe ou sistema."
+    },
+    {
+      "name": "Melhoria Contínua",
+      "description": "Processo de aprimoramento constante em todos os aspectos do negócio."
+    },
+    {
+      "name": "Desafios Tecnológicos",
+      "description": "Problemas ou obstáculos relacionados à implementação de tecnologias."
+    },
+    {
+      "name": "Gestão de Projetos",
+      "description": "Coordenação e administração de atividades para atingir objetivos específicos."
+    },
+    {
+      "name": "Planos de Expansão",
+      "description": "Estratégias para aumentar a presença da empresa em novos mercados ou regiões."
+    },
+    {
+      "name": "Cultura Organizacional",
+      "description": "Valores, crenças e práticas compartilhadas dentro da empresa."
+    },
+    {
+      "name": "Análise de Custos",
+      "description": "Exame dos gastos associados a um determinado projeto ou operação."
+    },
+    {
+      "name": "Aprendizado e Desenvolvimento",
+      "description": "Programas e iniciativas para melhorar as habilidades e conhecimentos dos funcionários."
+    },
+    {
+      "name": "Comunicação Interna",
+      "description": "Troca de informações dentro da empresa para manter os funcionários informados e engajados."
+    },
+    {
+      "name": "Monitoramento de Tendências",
+      "description": "Observação e análise de padrões e mudanças no mercado ou na indústria."
+    },
+    {
+      "name": "Prioridades de Investimento",
+      "description": "Áreas ou projetos considerados mais importantes para investimento de recursos."
+    },
+    {
+      "name": "Satisfação do Cliente",
+      "description": "Grau de contentamento do cliente com os produtos ou serviços oferecidos."
+    },
+    {
+      "name": "Gestão de Riscos",
+      "description": "Identificação, avaliação e mitigação de riscos potenciais para o negócio."
+    },
+    {
+      "name": "Eficiência Operacional",
+      "description": "Maximização da produtividade e redução de desperdícios nos processos operacionais."
+    },
+    {
+      "name": "Desenvolvimento de Parcerias",
+      "description": "Estabelecimento de relações colaborativas com outras empresas ou organizações."
+    },
+    {
+      "name": "Feedback do Cliente",
+      "description": "Opiniões e sugestões dos clientes sobre produtos ou serviços."
+    },
+    {
+      "name": "Inovação de Produto",
+      "description": "Introdução de novos produtos ou melhorias significativas nos produtos existentes."
+    },
+    {
+      "name": "Gerenciamento de Crises",
+      "description": "Planos e procedimentos para lidar com situações de emergência ou desastres."
+    },
+    {
+      "name": "Estratégias de Retenção",
+      "description": "Abordagens para manter clientes existentes e reduzir a rotatividade."
+    },
+    {
+      "name": "Análise de Dados",
+      "description": "Exame e interpretação de conjuntos de dados para obter insights úteis."
+    },
+    {
+      "name": "Planejamento Financeiro",
+      "description": "Elaboração de estratégias para gerenciar recursos financeiros da empresa."
+    },
+    {
+      "name": "Oportunidades de Inovação",
+      "description": "Áreas potenciais para introduzir novas ideias ou tecnologias inovadoras."
+    },
+    {
+      "name": "Gestão de Recursos Humanos",
+      "description": "Administração de políticas e práticas relacionadas aos funcionários da empresa."
+    },
+    {
+      "name": "Análise de Competências",
+      "description": "Avaliação das habilidades e conhecimentos da equipe para identificar lacunas e oportunidades de desenvolvimento."
+    },
+    {
+      "name": "Sustentabilidade Financeira",
+      "description": "Capacidade de uma empresa de manter suas operações a longo prazo sem comprometer recursos futuros."
+    },
+    {
+      "name": "Ciclo de Vida do Produto",
+      "description": "Estágios pelos quais um produto passa desde o desenvolvimento até o fim de sua vida útil."
+    },
+    {
+      "name": "Gestão de Mudanças",
+      "description": "Processo de planejar, implementar e monitorar mudanças em uma organização."
+    },
+    {
+      "name": "Estratégias de Expansão",
+      "description": "Planos para aumentar a presença da empresa em novos mercados ou segmentos de clientes."
+    }
+  ],
+  "quickResponses": [
+    [
+      {
+        "identifier": "Saudação",
+        "description": "Cumprimento inicial ao iniciar uma conversa."
+      },
+      {
+        "identifier": "Agradecimento",
+        "description": "Expressão de gratidão por algo feito ou dito."
+      },
+      {
+        "identifier": "Confirmação",
+        "description": "Aprovação ou concordância com uma declaração ou pergunta."
+      },
+      {
+        "identifier": "Negativa",
+        "description": "Resposta negativa ou discordância."
+      },
+      {
+        "identifier": "Desculpa",
+        "description": "Expressão de arrependimento ou pedido de desculpas."
+      },
+      {
+        "identifier": "Elogio",
+        "description": "Palavras de apreço ou admiração por algo ou alguém."
+      },
+      {
+        "identifier": "Esclarecimento",
+        "description": "Explicação para entender melhor algo que foi dito."
+      },
+      {
+        "identifier": "Pedido de Informação",
+        "description": "Solicitação de mais detalhes ou esclarecimentos sobre um tópico."
+      },
+      {
+        "identifier": "Convite",
+        "description": "Solicitação para participar de algo ou comparecer a um evento."
+      },
+      {
+        "identifier": "Despedida",
+        "description": "Fim da conversa ou despedida cordial."
+      },
+      {
+        "identifier": "Compreensão",
+        "description": "Indicação de que algo foi entendido ou compreendido."
+      },
+      {
+        "identifier": "Animação",
+        "description": "Expressão de entusiasmo ou empolgação."
+      },
+      {
+        "identifier": "Solicitação de Ajuda",
+        "description": "Pedido de assistência ou suporte em alguma questão."
+      },
+      {
+        "identifier": "Comemoração",
+        "description": "Celebração de uma conquista ou acontecimento feliz."
+      },
+      {
+        "identifier": "Reconhecimento",
+        "description": "Expressão de reconhecimento pelo esforço ou contribuição de alguém."
+      },
+      {
+        "identifier": "Expectativa",
+        "description": "Expressão de esperança ou antecipação em relação a algo futuro."
+      },
+      {
+        "identifier": "Incerteza",
+        "description": "Indicação de dúvida ou falta de certeza sobre algo."
+      },
+      {
+        "identifier": "Incentivo",
+        "description": "Palavras de estímulo ou motivação para continuar avançando."
+      },
+      {
+        "identifier": "Consideração",
+        "description": "Reflexão ou pensamento sobre uma situação ou ideia."
+      },
+      {
+        "identifier": "Preocupação",
+        "description": "Expressão de cuidado ou apreensão em relação a algo."
+      }
+    ]
+    
+  ],
+  "team": [
+    {
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "permissions": ["Dashboard", "Bate papo ao-vivo"]
+    },
+    {
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "permissions": ["Dashboard", "Configurações"]
+    },
+    {
+      "name": "Carol Brown",
+      "email": "carol@example.com",
+      "permissions": ["Bate papo ao-vivo"]
+    },
+    {
+      "name": "David Lee",
+      "email": "david@example.com",
+      "permissions": ["Dashboard"]
+    },
+    {
+      "name": "Eva Davis",
+      "email": "eva@example.com",
+      "permissions": ["Configurações"]
+    },
+    {
+      "name": "Frank Wilson",
+      "email": "frank@example.com",
+      "permissions": ["Dashboard", "Bate papo ao-vivo", "Configurações"]
+    },
+    {
+      "name": "Grace Taylor",
+      "email": "grace@example.com",
+      "permissions": ["Bate papo ao-vivo", "Configurações"]
+    },
+    {
+      "name": "Helen Martinez",
+      "email": "helen@example.com",
+      "permissions": ["Dashboard", "Configurações"]
+    },
+    {
+      "name": "Ivan Anderson",
+      "email": "ivan@example.com",
+      "permissions": ["Dashboard"]
+    },
+    {
+      "name": "Julia Clark",
+      "email": "julia@example.com",
+      "permissions": ["Bate papo ao-vivo"]
+    }
+  ]
+}
